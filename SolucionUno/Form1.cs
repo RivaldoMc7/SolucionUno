@@ -28,5 +28,10 @@ namespace SolucionUno
 
             label2.Text = r.ToString();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            //AGREGAMOS MAS BOTONES
+        }
     }
 }
