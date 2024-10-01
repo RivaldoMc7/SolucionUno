@@ -35,6 +35,16 @@ namespace SolucionUno
 
             //PUSIMOS MAS BOTONES
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //agremamos boton
+        }
         //QUEREMOS TENER LA CERTE
         ///ADKJFKLASJDFLKASJFLKJA
         ///ALSKDJGLKASDJFLKASJD
